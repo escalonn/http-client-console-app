@@ -1,0 +1,11 @@
+.git/
+.vscode/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
